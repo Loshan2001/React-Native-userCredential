@@ -12,9 +12,10 @@ This project is a React Native application that features a reanimated login/logo
 - Styled with NativeWind for responsive and modern UI design.
 - Navigation between login and logout screens using React Navigation.
 
+# Project Screens
 
- ### Login Screen
-![Login Screen](./Assets/images/login.png)
+## Login Screen
+<img src="./Assets/images/login.png" alt="Login Screen" width="500" height="auto">
 
-### Logout Screen
-![Logout Screen](./Assets/images/signup.png)
+## Logout Screen
+<img src="./Assets/images/signup.png" alt="Logout Screen" width="500" height="auto">
