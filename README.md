@@ -13,4 +13,8 @@ This project is a React Native application that features a reanimated login/logo
 - Navigation between login and logout screens using React Navigation.
 
 
- 
+ ### Login Screen
+![Login Screen](./Assets/images/login.png)
+
+### Logout Screen
+![Logout Screen](./Assets/images/signup.png)
