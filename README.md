@@ -1,20 +1,16 @@
-# Reanimated example
+ # Reanimated Login/Logout Page
 
-<p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-</p>
+This project is a React Native application that features a reanimated login/logout page. It was developed using the following technologies:
 
-## 🚀 How to use
+- **Expo CLI**: A set of tools to create and manage React Native projects with minimal setup.
+- **NativeWind**: A utility-first CSS framework for React Native, inspired by Tailwind CSS.
+- **React Navigation**: A library for navigating between screens in a React Native app.
 
-> `npx create-expo my-app --example with-reanimated`
+## Features
 
-- Run `yarn` or `npm install`
-- Run `yarn start` or `npm run start` to try it out.
+- Smooth animations using React Native Reanimated.
+- Styled with NativeWind for responsive and modern UI design.
+- Navigation between login and logout screens using React Navigation.
 
-## 📝 Notes
 
-- [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+ 
